@@ -10,3 +10,4 @@ class Toyata(Car):
 
 car1 = Toyata("RAV4")
 print(car1.name)
+car1.start()
